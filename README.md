@@ -1,1 +1,20 @@
-[Screenshot 2025-04-23 192908](https://github.com/user-attachments/assets/629973f0-e708-4f66-bcf4-db93ea16df2b)
+# Siva
+
+Ever 
+
+## Schematic
+![](https://github.com/siba156/solder-hackclub/blob/main/png/Schematic.png)
+
+## PCB
+![](https://github.com/siba156/solder-hackclub/blob/main/png/PCB.png)
+![](https://github.com/siba156/solder-hackclub/blob/main/png/PCB3D.png)
+
+## Features
+- 
+
+## BOM
+- 
+
+Made by `@Siva Maddineni` on slack :D
+
+Design your own PCB at http://solder.hackclub.com/!
