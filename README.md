@@ -1,6 +1,6 @@
 # Siva
 
-Ever 
+<TODO> 
 
 ## Schematic
 ![](https://github.com/siba156/solder-hackclub/blob/main/png/Schematic.png)
@@ -10,10 +10,10 @@ Ever
 ![](https://github.com/siba156/solder-hackclub/blob/main/png/PCB3D.png)
 
 ## Features
-- 
+- <TODO>
 
 ## BOM
-- 
+- <TODO>
 
 Made by `@Siva Maddineni` on slack :D
 
